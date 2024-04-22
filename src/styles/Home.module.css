@@ -1,0 +1,11 @@
+/* styles/Home.module.css */
+
+.container {
+  background-color: #ffffff;
+}
+
+.h1 {
+  color: #000000; /* 텍스트 색상을 검정색으로 설정 */
+  text-align: center; /* 가운데 정렬 */
+  background-color: #ffffff;
+}
